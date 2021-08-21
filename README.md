@@ -19,3 +19,15 @@ DELETE = exclusão <br>
 1- Testes unitários: valida uma única unidade de código <br>
 2- Testes de integração: cria recursos a parte para executar o teste <br>
 2- Testes de regressão: teste de de ponta a ponta, desde o início até o final <br>
+
+## Nível 1 - Testes unitários
+- Maior número de testes, menos custo e tempo
+- Testes feito pelo próprio desenvolvedor
+- Rápidos, com base em linhas de código
+- Cobertura de vários cenários para as linhas
+- Integração com outros códigos: através de mocks
+
+## Principais frameworks
+- JUnit 
+- Mockito
+- Hamcrest
