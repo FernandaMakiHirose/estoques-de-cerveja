@@ -7,10 +7,10 @@ Aprendi a testar, unitariamente, uma API REST para o gerenciamento de estoques d
 - Spring Boot 
 
 ## Padrão arquitetural REST
-GET = listagem
-PUT = atualização completa
-PATCH = atualização parcial em dados
-POST = criação
-DELETE = exclusão 
+GET = listagem <br>
+PUT = atualização completa <br>
+PATCH = atualização parcial em dados <br>
+POST = criação <br>
+DELETE = exclusão <br>
 
 ![img](https://user-images.githubusercontent.com/72028645/130327252-04c173a7-7de5-4779-8199-54865e17feef.png)
