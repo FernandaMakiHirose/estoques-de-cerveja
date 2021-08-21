@@ -5,3 +5,12 @@ Aprendi a testar, unitariamente, uma API REST para o gerenciamento de estoques d
 - Java 14
 - Maven 3.6.3
 - Spring Boot 
+
+## Padrão arquitetural REST
+GET = listagem
+PUT = atualização completa
+PATCH = atualização parcial em dados
+POST = criação
+DELETE = exclusão 
+
+![img](https://user-images.githubusercontent.com/72028645/130327252-04c173a7-7de5-4779-8199-54865e17feef.png)
