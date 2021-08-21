@@ -16,6 +16,6 @@ DELETE = exclusão <br>
 ![img](https://user-images.githubusercontent.com/72028645/130327252-04c173a7-7de5-4779-8199-54865e17feef.png)
 
 ## Pirâmides de testes
-1- Testes unitários: valida uma única unidade de código
-2- Testes de integração: cria recursos a parte para executar o teste
-2- Testes de regressão: teste de de ponta a ponta, desde o início até o final
+1- Testes unitários: valida uma única unidade de código <br>
+2- Testes de integração: cria recursos a parte para executar o teste <br>
+2- Testes de regressão: teste de de ponta a ponta, desde o início até o final <br>
