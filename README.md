@@ -7,6 +7,9 @@ Aprendi a testar, unitariamente, uma API REST para o gerenciamento de estoques d
 * Spring Boot 
 * IDE
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 Para executar o projeto:
 >mvn spring-boot:run 
